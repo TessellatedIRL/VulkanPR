@@ -1,0 +1,5 @@
+"D:/Program Files/Vulkan/Bin/glslangValidator.exe" -V shader.vert
+"D:/Program Files/Vulkan/Bin/glslangValidator.exe" -V shader.frag
+"D:/Program Files/Vulkan/Bin/glslangValidator.exe" -o second_vert.spv -V second.vert
+"D:/Program Files/Vulkan/Bin/glslangValidator.exe" -o second_frag.spv -V second.frag
+pause
